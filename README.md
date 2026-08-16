@@ -1,5 +1,4 @@
 # shortcut-2.github.io
----
 
 김유진 포트폴리오 · https://shortcut-2.github.io
 
